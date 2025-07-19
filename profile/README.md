@@ -4,8 +4,7 @@ SA4S research group, SERC works at the intersection of software architecture and
 Our vision is to create systems that are not only functional but also sustainable and self-adaptable in an ever-changing world.
 
 
-
-
+For more information about the works we do, please check our website at [https://sa4s-serc.github.io/](https://sa4s-serc.github.io/)
 
 
 <!--
